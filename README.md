@@ -1,4 +1,5 @@
-### Olá! Eu sou a Vivian Tavares 
+### 👩‍💻 Olá!! Eu sou a Vivian Tavares. Estudante de Ciências de Dados e apaixonada por Tecnologia.
+
 
 <div align="center">
   <a href="https://github.com/viviaantavares">
