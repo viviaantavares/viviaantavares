@@ -1,4 +1,4 @@
-# 👩‍💻 Olá!! Eu sou a Vivian Tavares. 
+# 👩‍💻 
 <br>
 <div align="center">
   <a href="https://github.com/viviaantavares">
