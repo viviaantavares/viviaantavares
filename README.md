@@ -14,7 +14,7 @@
 - Git e GitHub (controle de versão)
 - Intermediário em Inglês (leitura e compreensão auditiva).
 
-💟 Soft Skills:
+## 💟 Soft Skills:
 
 - Colaborativa
 - Empática
