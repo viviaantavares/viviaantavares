@@ -1,4 +1,28 @@
-# 👩‍💻 
+## Oláá!!👋
+
+# 👩‍💻 Meu nome é Vivian Tavares e sou Cientista de Dados, formada pela Universidade Internacional Uninter. 
+
+# 📚​ Em constante evolução nos projetos de aprendizado de máquina, ciência de dados e análise. Tenho trabalhado em projetos nesta área, estudando constantemente e me esforçando para aprimorar meus conhecimentos e habilidades. Confira em meus repositórios; Tenho certeza que você os achará interessantes!
+
+## Skills 🌟
+
+- Python (scikit-learn, pandas, numpy, matplotlib, seaborn, statsmodels e assim por diante)
+- SQL
+- Machine Learning (modelos supervisionados e não supervisionados)
+- Estatística. 
+- Ferramentas de visualização e tratamento dos dados: Power BI, Tableau, Looker Studio, Excel (Google Sheets). 
+- Git e GitHub (controle de versão)
+- Intermediário em Inglês (leitura e compreensão auditiva).
+
+💟 Soft Skills:
+
+- Colaborativa
+- Empática
+- Comunicativa
+- Proativa
+- Trabalho em Equipe
+- Entusiasta
+
 <br>
 <div align="center">
   <a href="https://github.com/viviaantavares">
