@@ -1,8 +1,8 @@
 ## Oláá!!👋
 
-# 👩‍💻 Meu nome é Vivian Tavares e sou Cientista de Dados, formada pela Universidade Internacional Uninter. 
+👩‍💻 Meu nome é Vivian Tavares e sou Cientista de Dados, formada pela Universidade Internacional Uninter. 
 
-# 📚​ Em constante evolução nos projetos de aprendizado de máquina, ciência de dados e análise. Tenho trabalhado em projetos nesta área, estudando constantemente e me esforçando para aprimorar meus conhecimentos e habilidades. Confira em meus repositórios; Tenho certeza que você os achará interessantes!
+📚​ Em constante evolução nos projetos de aprendizado de máquina, ciência de dados e análise. Tenho trabalhado em projetos nesta área, estudando constantemente e me esforçando para aprimorar meus conhecimentos e habilidades. Confira em meus repositórios; Tenho certeza que você os achará interessantes!
 
 ## Skills 🌟
 
