@@ -36,9 +36,10 @@ Cursando Pós Graduação em Inteligência Artificial e Machine Learning na PUC 
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
       <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="sklearn" height="30" width="40" src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png">
+   <img align="center" alt="plotly dash" height="40" width="100" src="https://dash.plotly.com/assets/images/light_plotly_dash_logo.png">  
+    <img align="center" alt="GCP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
 </div>
 
     
