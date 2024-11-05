@@ -4,7 +4,6 @@
 Sou Cientista de Dados, formada pela Universidade Internacional Uninter. </br>
 Cursando Pós Graduação em Inteligência Artificial e Machine Learning na PUC Minas. 
 
-📚​ Em constante evolução nos projetos de ciência de dados e análise. Tenho trabalhado constantemente em projetos nesta área, e me dedicando para aprimorar meus conhecimentos e habilidades. Confira em meus repositórios; Tenho certeza que você os achará interessantes!
 
 ## Skills 🌟
 
