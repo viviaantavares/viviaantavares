@@ -2,7 +2,7 @@
 
 👩‍💻 Meu nome é Vivian Tavares </br>
 Sou Cientista de Dados, formada pela Universidade Internacional Uninter. </br>
-Cursando Pós Graduação em Inteligência Artificial e Machine Learning na PUC Minas. 
+Cursando Pós Graduação em Inteligência Artificial e Machine Learning na PUC Minas. </br>
 
 
 ## Skills 🌟
